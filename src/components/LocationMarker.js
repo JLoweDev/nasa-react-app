@@ -1,5 +1,5 @@
 import { Icon } from '@iconify/react'
-import locationIcon from '@iconify/icons-mdi/dharma-wheel'
+import locationIcon from '@iconify/icons-mdi/vkontakte-circle'
 
 const LocationMarker = ({ lat, lng, onClick }) => {
     return (
